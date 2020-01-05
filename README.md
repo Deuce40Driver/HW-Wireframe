@@ -4,9 +4,9 @@
 #### In this assignment, I built a web design skeleton using **HTML** & **CSS**
 
 ***
-### Specifications
+## Specifications
 
-###### HTML should have each of the following sections:
+#### HTML should have each of the following sections:
 
 - Header
 - Nav
@@ -17,7 +17,7 @@
 - Paragraph contained within the Article
 
 
-###### CSS should have styles for each of the following elements:
+#### CSS should have styles for each of the following elements:
 
 - Body
   - font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -38,6 +38,6 @@
   - background: '#ebebeb'
 
 
-###### The widths of each section should be:
+#### The widths of each section should be:
 
 - section: 495px
