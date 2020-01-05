@@ -1,6 +1,6 @@
 # Building a Wireframe
 
-#### In this assignment, I built a web design skeleton using **HTML** & **CSS**
+### In this assignment, I built a web design skeleton using **HTML** & **CSS**
 
 ## Specifications
 
