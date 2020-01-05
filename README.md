@@ -2,6 +2,8 @@
 
 ### In this assignment, I built a web design skeleton using **HTML** & **CSS**
 
+![Completed Assignment](/completed-assignment.PNG "Completed Assignment")
+
 ## Specifications
 
 #### HTML should have each of the following sections:
