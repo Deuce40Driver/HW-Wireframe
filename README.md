@@ -1,9 +1,7 @@
 # Building a Wireframe
 
-***
 #### In this assignment, I built a web design skeleton using **HTML** & **CSS**
 
-***
 ## Specifications
 
 #### HTML should have each of the following sections:
